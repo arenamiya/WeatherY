@@ -1,0 +1,6 @@
+Running our project:
+  1. Unzip
+  2. Go into root project directory (where you find .xcworkspace & .xcodeproj files)
+  3. Open "iPEAssignment.xcworkspace" with Xcode 10.3 (the white icon file)
+  4. Build and run the project on the iPhone XS Max Simulator (optimised and designed on this device)
+  
